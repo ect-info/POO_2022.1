@@ -1,2 +1,13 @@
-# POO_2022.1
-ECT2540 - Programação Orientada a Objetos (ECT/UFRN) - 2022.1
+# Programação Orientada a Objetos
+
+Este repositório contém o material da disciplina de Programação Orientada a
+Objetos ministrada na ECT/UFRN:
+
+ - Jupyter notebooks com exercícios e explicações
+ - Slides
+ - Código Python de forma geral
+
+
+
+
+
