@@ -17,15 +17,15 @@ Este diretório contém os slides das aulas do semestre 2022.1
 
 Anotações e exercícios da aula (Jupyter notebook) [02-Python-Basico.ipynb](./02-python-basico/02-Python-Basico.ipynb)
 
-<!--
-
-## [03 - 25/10 - Classes, objetos e abstração](./03-classes-objetos/)
+## [03 - 05/04 - Classes, objetos e abstração](./03-classes-objetos/)
  - Classes, atributos e métodos
  - Objetos
  - Classes em Python
  - Pilar de POO 1: abstração
 
 Anotações e exercícios da aula (Jupyter notebook) [03-Classes-Objetos.ipynb](./03-classes-objetos/03-Classes-Objetos.ipynb)
+
+<!--
 
 ## [04 - 27/10 - Encapsulamento](./04-encapsulamento/)
  - Encapsulamento
