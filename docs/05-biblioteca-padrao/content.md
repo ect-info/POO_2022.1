@@ -3,20 +3,13 @@
 ---
 
 ### Revisão 
-#### Encapsulamento
 
+#### Encapsulamento
 - __Protege__ o acesso direto aos atributos de um objeto
 - *Esconde* como funcionam as rotinas (métodos) da classe
 - As classes devem __expôr o mínimo necessário__ para serem utilizadas
-
----
-
-### Revisão 
-#### Encapsulamento
-
 - Ao chamar um método, podemos ignorar como ele foi implementado
 - Os usuários da classe só devem acessar os atributos/métodos *públicos* da classe (interface pública)
-
 ---
 
 ### Objetivos
