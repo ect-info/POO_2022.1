@@ -20,19 +20,14 @@
 ---
 
 ### Objetivos
-#### Sub
 
-Nesta aula, serão mostradas as seguintes classes da biblioteca
-padrão de Python:
-
-- ```tuple``` (pares ordenados, tuplas, etc)
-- ```list``` (listas de elementos)
-- ```dict``` (dicionários)
-
+Nesta aula aprenderemos:
+- Utilizar estruturas de dados frequentemente utilizadas em programação
+- Em particular, veremos as seguintes classes da biblioteca padrão de Python:
+    - ```tuple``` (pares ordenados, tuplas, etc)
+    - ```list``` (listas de elementos)
+    - ```dict``` (dicionários)
 --- 
 
 ### Estruturas de Dados e Biblioteca Padrão
-
 [05-Biblioteca-Padrão](05-Biblioteca-Padrao.ipynb)
-
----
