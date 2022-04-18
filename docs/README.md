@@ -34,7 +34,7 @@ Anotações e exercícios da aula (Jupyter notebook) [03-Classes-Objetos.ipynb](
 
 Anotações e exercícios da aula (Jupyter notebook) [04-Encapsulamento.ipynb](./04-encapsulamento/04-Encapsulamento.ipynb)
 
-## [05 - 03/11 - Biblioteca Padrão Python](./05-biblioteca-padrao)
+## [05 - 19/04 - Biblioteca Padrão Python](./05-biblioteca-padrao)
  - Listas
  - Tuplas
  - Dicionários
