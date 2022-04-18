@@ -20,9 +20,11 @@
 ---
 
 ### Objetivos
+#### Sub
 
 Nesta aula, serão mostradas as seguintes classes da biblioteca
 padrão de Python:
+
 - ```tuple``` (pares ordenados, tuplas, etc)
 - ```list``` (listas de elementos)
 - ```dict``` (dicionários)
