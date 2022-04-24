@@ -41,9 +41,7 @@ Anotações e exercícios da aula (Jupyter notebook) [04-Encapsulamento.ipynb](.
 
 Anotações e exercícios da aula (Jupyter notebook) [05-Biblioteca-Padrao.ipynb](./05-biblioteca-padrao/05-Biblioteca-Padrao.ipynb)
 
-<!--
-
-## [06 - 08/11 - Relações entre Classes](./06-relacoes)
+## [06 - 26/04 - Relações entre Classes](./06-relacoes)
  - Notação UML
  - Relações entre classe
     - Associação
@@ -51,6 +49,8 @@ Anotações e exercícios da aula (Jupyter notebook) [05-Biblioteca-Padrao.ipynb
     - Composição
 
 Anotações e exercícios da aula (Jupyter notebook) [06-Relacoes.ipynb](./06-relacoes/06-Relacoes.ipynb)
+
+<!--
 
 ## [07 - 10/11 - Módulos em Python (Jupyter notebook)](./07-modulos/07-Modulos.ipynb)
  - Módulos em Python
