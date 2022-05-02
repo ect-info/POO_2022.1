@@ -50,12 +50,12 @@ Anotações e exercícios da aula (Jupyter notebook) [05-Biblioteca-Padrao.ipynb
 
 Anotações e exercícios da aula (Jupyter notebook) [06-Relacoes.ipynb](./06-relacoes/06-Relacoes.ipynb)
 
-<!--
-
-## [07 - 10/11 - Módulos em Python (Jupyter notebook)](./07-modulos/07-Modulos.ipynb)
+## [07 - 03/05 - Módulos em Python (Jupyter notebook)](./07-modulos/07-Modulos.ipynb)
  - Módulos em Python
 
 Arquivo auxiliar: [alo.py](./07-modulos/alo.py)
+
+<!--
 
 ## [08 - 17/11 - Prova - Unidade 1 (Jupyter notebook)](./08-prova1/poo_2021.2_p1.ipynb)
 
