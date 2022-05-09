@@ -55,17 +55,19 @@ Anotações e exercícios da aula (Jupyter notebook) [06-Relacoes.ipynb](./06-re
 
 Arquivo auxiliar: [alo.py](./07-modulos/alo.py)
 
-<!--
-
-## [08 - 17/11 - Prova - Unidade 1 (Jupyter notebook)](./08-prova1/poo_2021.2_p1.ipynb)
-
-## [09 - 22/11 - Métodos/Atributos de classe e Herança](./09-heranca)
- - Métodos e atributos de classe
+## [08 - 10/05 - Herança](./08-heranca)
  - Pilar de POO 3: Herança
 
-Anotações e exercícios da aula (Jupyter notebook) [09-Heranca.ipynb](./09-heranca/09-Heranca.ipynb)
+Anotações e exercícios da aula (Jupyter notebook) [08-Heranca.ipynb](./08-heranca/08-Heranca.ipynb)
 
-## [10 - 24/11 - Prática 2.1 (Jupyter notebook)](./10-heranca_pratica/Pratica_2.1.ipynb)
+<!--
+
+## [09 - 12/05 - Métodos/Atributos de classe](./09-static)
+ - Métodos e atributos de classe
+
+Anotações e exercícios da aula (Jupyter notebook) [09-Static.ipynb](./09-static/09-Static.ipynb)
+
+## [12 - 12/05 - Prática 2.1 (Jupyter notebook)](./10-heranca_pratica/Pratica_2.1.ipynb)
 
 ## [11 - 29/11 - Classes abstratas](./11-classes-abstratas)
  - Classes abstratas
