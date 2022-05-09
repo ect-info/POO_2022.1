@@ -1,5 +1,5 @@
 ### Programação Orientada a Objetos
-#### Atributos/Métodos de Classe e Herança
+#### Herança
 ---
 
 ### Objetivo
