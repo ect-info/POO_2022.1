@@ -17,7 +17,7 @@ Apresentar o mecanismo de herança:
 - Encapsulamento
 - **Herança**: permite a reutilização de comportamento entre classes
 - Polimorfismo
---- 
+---
 
 ### Herança
 
@@ -95,6 +95,6 @@ herdam as características das suas superclasses
 
 ### Como Funciona na Prática
 
-[09-heranca](09-Heranca.ipynb)
+[08-heranca](08-Heranca.ipynb)
 
 ---
