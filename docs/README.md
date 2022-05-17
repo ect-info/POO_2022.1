@@ -65,13 +65,13 @@ Anotações e exercícios da aula (Jupyter notebook) [08-Heranca.ipynb](./08-her
 
 Anotações e exercícios da aula (Jupyter notebook) [09-Static.ipynb](./09-static/09-Static.ipynb)
 
-<!--
-
-## [11 - 29/11 - Classes abstratas](./11-classes-abstratas)
+## [10 - 17/05 - Classes abstratas](./10-classes-abstratas)
  - Classes abstratas
  - Métodos abstratos
 
-Anotações e exercícios da aula (Jupyter notebook) [11-Classes-Abstratas.ipynb](./11-classes-abstratas/11-Classes-Abstratas.ipynb)
+Anotações e exercícios da aula (Jupyter notebook) [10-Classes-Abstratas.ipynb](./10-classes-abstratas/10-Classes-Abstratas.ipynb)
+
+<!--
 
 ## [12 - 01/12 - Prática 2.2 (Jupyter notebook)](./12-classes-abstratas_pratica/Pratica_2.2.ipynb)
 
