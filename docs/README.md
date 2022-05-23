@@ -71,16 +71,15 @@ Anotações e exercícios da aula (Jupyter notebook) [09-Static.ipynb](./09-stat
 
 Anotações e exercícios da aula (Jupyter notebook) [10-Classes-Abstratas.ipynb](./10-classes-abstratas/10-Classes-Abstratas.ipynb)
 
-<!--
 
-## [12 - 01/12 - Prática 2.2 (Jupyter notebook)](./12-classes-abstratas_pratica/Pratica_2.2.ipynb)
 
-## [13 - 06/12 - Polimorfismo](./13-polimorfismo)
+## [11 - 24/05 - Polimorfismo](./11-polimorfismo)
  - Pilar de POO 4: Polimorfismo
- - *Duck typing*
- - Métodos polimórficos através de variações nos parâmetros
+ - *Duck typing* e polimorfismo em Python
 
-Anotações e exercícios da aula (Jupyter notebook) [13-Polimorfismo.ipynb](./13-polimorfismo/13-Polimorfismo.ipynb)
+Anotações e exercícios da aula (Jupyter notebook) [11-Polimorfismo.ipynb](./11-polimorfismo/11-Polimorfismo.ipynb)
+
+<!--
 
 ## [14 - 08/12 - Prática 2.3 (Jupyter notebook)](./14-polimorfismo_pratica/Pratica_2.3.ipynb)
 
