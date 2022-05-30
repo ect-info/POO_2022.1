@@ -79,22 +79,18 @@ Anotações e exercícios da aula (Jupyter notebook) [10-Classes-Abstratas.ipynb
 
 Anotações e exercícios da aula (Jupyter notebook) [11-Polimorfismo.ipynb](./11-polimorfismo/11-Polimorfismo.ipynb)
 
-<!--
+## [12 - 31/05 - Herança Múltipla](./12-heranca-multipla)
+ - Herança múltipla
+ - Problemas comuns com herança múltipla
+ - *Method resolution order* (MRO)
 
-## [14 - 08/12 - Prática 2.3 (Jupyter notebook)](./14-polimorfismo_pratica/Pratica_2.3.ipynb)
+Anotações e exercícios da aula (Jupyter notebook) [12-Heranca-Multipla.ipynb](./12-heranca-multipla/12-Heranca-Multipla.ipynb)
+
+<!--
 
 ## [15 - 13/12 - Documentação em Python (Jupyter notebook)](./15-documentacao/15-Documentacao.ipynb)
 
 ## [16 - 15/12 - Prova - Unidade 2 (Jupyter notebook)](./16-prova2/poo_2021.2_p2.ipynb)
-
-## [17 - 10/01 - Herança Múltipla](./17-heranca-multipla)
- - Herança múltipla
- - Problema do diamante
- - *Method resolution order* (MRO)
-
-Anotações e exercícios da aula (Jupyter notebook) [17-Heranca-Multipla.ipynb](./17-heranca-multipla/17-Heranca-Multipla.ipynb)
-
-## [18 - 12/01 - Prática 2.4 (Jupyter notebook)](./18-heranca-multipla_pratica/18-Heranca-Multipla_Pratica.ipynb)
 
 ## [19 - 17/01 - Erros e Exceções](./19-excecoes)
  - Erros e exceções
