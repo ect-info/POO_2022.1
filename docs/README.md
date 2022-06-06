@@ -86,9 +86,9 @@ Anotações e exercícios da aula (Jupyter notebook) [11-Polimorfismo.ipynb](./1
 
 Anotações e exercícios da aula (Jupyter notebook) [12-Heranca-Multipla.ipynb](./12-heranca-multipla/12-Heranca-Multipla.ipynb)
 
-<!--
+## [13 - 07/06 - Documentação em Python (Jupyter notebook)](./13-documentacao/13-Documentacao.ipynb)
 
-## [15 - 13/12 - Documentação em Python (Jupyter notebook)](./15-documentacao/15-Documentacao.ipynb)
+<!--
 
 ## [16 - 15/12 - Prova - Unidade 2 (Jupyter notebook)](./16-prova2/poo_2021.2_p2.ipynb)
 
