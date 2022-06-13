@@ -86,7 +86,7 @@ Anotações e exercícios da aula (Jupyter notebook) [12-Heranca-Multipla.ipynb]
 
 ## [13 - 07/06 - Documentação em Python (Jupyter notebook)](./13-documentacao/13-Documentacao.ipynb)
 
-## [14 - 17/01 - Erros e Exceções](./14-excecoes)
+## [14 - 14/06 - Erros e Exceções](./14-excecoes)
  - Erros e exceções
  - Tratamento de erros
  - Definição de exceções
