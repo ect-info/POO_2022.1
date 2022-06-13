@@ -71,8 +71,6 @@ Anotações e exercícios da aula (Jupyter notebook) [09-Static.ipynb](./09-stat
 
 Anotações e exercícios da aula (Jupyter notebook) [10-Classes-Abstratas.ipynb](./10-classes-abstratas/10-Classes-Abstratas.ipynb)
 
-
-
 ## [11 - 24/05 - Polimorfismo](./11-polimorfismo)
  - Pilar de POO 4: Polimorfismo
  - *Duck typing* e polimorfismo em Python
@@ -88,16 +86,16 @@ Anotações e exercícios da aula (Jupyter notebook) [12-Heranca-Multipla.ipynb]
 
 ## [13 - 07/06 - Documentação em Python (Jupyter notebook)](./13-documentacao/13-Documentacao.ipynb)
 
-<!--
-
-## [16 - 15/12 - Prova - Unidade 2 (Jupyter notebook)](./16-prova2/poo_2021.2_p2.ipynb)
-
-## [19 - 17/01 - Erros e Exceções](./19-excecoes)
+## [14 - 17/01 - Erros e Exceções](./14-excecoes)
  - Erros e exceções
  - Tratamento de erros
  - Definição de exceções
 
-Anotações e exercícios da aula (Jupyter notebook) [19a-Excecoes.ipynb](./19a-excecoes/19a-Excecoes.ipynb)
+Anotações e exercícios da aula (Jupyter notebook) [14-Excecoes.ipynb](./14-excecoes/14-Excecoes.ipynb)
+
+<!--
+
+## [16 - 15/12 - Prova - Unidade 2 (Jupyter notebook)](./16-prova2/poo_2021.2_p2.ipynb)
 
 ## [20a - 19/01 - Prática 3.1a (Jupyter notebook)](./20a-excecoes_pratica/20a-Excecoes_Pratica.ipynb)
 
