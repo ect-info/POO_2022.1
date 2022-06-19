@@ -93,6 +93,16 @@ Anotações e exercícios da aula (Jupyter notebook) [12-Heranca-Multipla.ipynb]
 
 Anotações e exercícios da aula (Jupyter notebook) [14-Excecoes.ipynb](./14-excecoes/14-Excecoes.ipynb)
 
+## [15 - 21/06 - Interfaces Gráficas](./15-gui)
+- Interfaces gráficas em Python com Tkinter
+- Componentes (widgets):
+   - *label*
+   - *frame*
+   - *entry*
+   - *button*
+
+Anotações e exercícios da aula (Jupyter notebook) [15-GUI.ipynb](./15-gui/15-GUI.ipynb)
+
 <!--
 
 ## [16 - 15/12 - Prova - Unidade 2 (Jupyter notebook)](./16-prova2/poo_2021.2_p2.ipynb)
@@ -102,15 +112,7 @@ Anotações e exercícios da aula (Jupyter notebook) [14-Excecoes.ipynb](./14-ex
 ## [20b - 19/01 - Arquivos (Jupyter notebook)](./20b-arquivos/20b-Arquivos.ipynb)
  - **Prática EaD** a ser entregue até as 23:59 do dia 21/01
 
-## [21 - 24/01 - Interfaces Gráficas](./21-gui)
-- Interfaces gráficas em Python com Tkinter
-- Componentes (widgets):
-- *label*
-- *frame*
-- *entry*
-- *button*
 
-Anotações e exercícios da aula (Jupyter notebook) [21-GUI.ipynb](./21-gui/21-GUI.ipynb)
 
 ## [22a - 26/01 - Prática 3.2a (Jupyter notebook)](./22a-gui_pratica/22a-GUI_Pratica.ipynb)
 
