@@ -103,6 +103,8 @@ Anotações e exercícios da aula (Jupyter notebook) [14-Excecoes.ipynb](./14-ex
 
 Anotações e exercícios da aula (Jupyter notebook) [15-GUI.ipynb](./15-gui/15-GUI.ipynb)
 
+[Solução para a calculadora](./15-gui/calculadora_resolucao.ipynb)
+
 <!--
 
 ## [16 - 15/12 - Prova - Unidade 2 (Jupyter notebook)](./16-prova2/poo_2021.2_p2.ipynb)
