@@ -105,6 +105,8 @@ Anotações e exercícios da aula (Jupyter notebook) [15-GUI.ipynb](./15-gui/15-
 
 [Solução para a calculadora](./15-gui/calculadora_resolucao.ipynb)
 
+## [16 - 28/06 - Padrão de Projeto MVC (Jupyter notebook)](./16-mvc/16-MVC.ipynb)
+
 <!--
 
 ## [16 - 15/12 - Prova - Unidade 2 (Jupyter notebook)](./16-prova2/poo_2021.2_p2.ipynb)
@@ -117,9 +119,6 @@ Anotações e exercícios da aula (Jupyter notebook) [15-GUI.ipynb](./15-gui/15-
 
 
 ## [22a - 26/01 - Prática 3.2a (Jupyter notebook)](./22a-gui_pratica/22a-GUI_Pratica.ipynb)
-
-## [22b - 26/01 - Padrão de Projeto MVC (Jupyter notebook)](./22b-mvc/22b-MVC.ipynb)
- - **Prática EaD** a ser entregue até as 23:59 do dia 28/01
 
 ## [23 - 31/01 - Projeto Final 1(Jupyter notebook)](./23-projeto_final1/23-Projeto_Final_parte1.ipynb)
 - Implementação do projeto final -- parte 1
