@@ -105,11 +105,11 @@ Anotações e exercícios da aula (Jupyter notebook) [15-GUI.ipynb](./15-gui/15-
 
 [Solução para a calculadora](./15-gui/calculadora_resolucao.ipynb)
 
-<!--
-
 ## [16 - 28/06 - Padrão de Projeto MVC (Jupyter notebook)](./16-mvc/16-MVC.ipynb)
 
-## [17 - 30/06 - Widgets TK Adicionais  (Jupyter notebook)](./17-gui-extra/17-gui-extra.ipynb)
+## [17 - 30/06 - Widgets TK Adicionais (Jupyter notebook)](./17-gui-extra/17-gui-extra.ipynb)
+
+<!--
 
 ## [23 - 31/01 - Projeto Final 1(Jupyter notebook)](./23-projeto_final1/23-Projeto_Final_parte1.ipynb)
 - Implementação do projeto final -- parte 1
