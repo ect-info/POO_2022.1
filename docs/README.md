@@ -107,6 +107,8 @@ Anotações e exercícios da aula (Jupyter notebook) [15-GUI.ipynb](./15-gui/15-
 
 ## [16 - 28/06 - Padrão de Projeto MVC (Jupyter notebook)](./16-mvc/16-MVC.ipynb)
 
+## [17 - 30/06 - Widgets TK Adicionais  (Jupyter notebook)](./17-gui-extra/17-gui-extra.ipynb)
+
 <!--
 
 ## [16 - 15/12 - Prova - Unidade 2 (Jupyter notebook)](./16-prova2/poo_2021.2_p2.ipynb)
