@@ -109,6 +109,10 @@ Anotações e exercícios da aula (Jupyter notebook) [15-GUI.ipynb](./15-gui/15-
 
 ## [17 - 30/06 - Widgets TK Adicionais (Jupyter notebook)](./17-gui-extra/17-gui-extra.ipynb)
 
+## [18 - 05/07 - Projeto Final (Jupyter notebook)](./18-projeto-final/Projeto_Final_2022.1.ipynb)
+
+[Dicas para implementação](./18-projeto-final/Projeto_Final_dicas.ipynb)
+
 <!--
 
 ## [23 - 31/01 - Projeto Final 1(Jupyter notebook)](./23-projeto_final1/23-Projeto_Final_parte1.ipynb)
